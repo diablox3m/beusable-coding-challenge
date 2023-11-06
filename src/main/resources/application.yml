@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: beusable-demo
+
+room:
+  booking:
+    premium-price-margin: 100.00
